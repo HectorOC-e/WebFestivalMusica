@@ -1,0 +1,27 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Proyecto Gulp, Sass y Html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HectorOC-e/WebFestivalMusica.git"
+  },
+  "keywords": [
+    "SASS",
+    "GULP",
+    "HTML"
+  ],
+  "author": "Hector Castellanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HectorOC-e/WebFestivalMusica/issues"
+  },
+  "homepage": "https://github.com/HectorOC-e/WebFestivalMusica#readme",
+  "devDependencies": {
+    "sass": "^1.54.4"
+  }
+}
